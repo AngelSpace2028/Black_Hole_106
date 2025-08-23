@@ -32,7 +32,7 @@ DICTIONARY_FILES = [
     "eng_news_2005_1M-sources.txt", "eng_news_2005_1M-co_n.txt",
     "eng_news_2005_1M-co_s.txt", "eng_news_2005_1M-inv_so.txt",
     "eng_news_2005_1M-meta.txt", "Dictionary.txt",
-    "the-complete-reference-html-css-fifth-edition.txt",
+    "the-complete-reference-html-css-fifth-edition.txt", "francais.txt", "espanol.txt", "deutsch.txt", "ukenglish.txt"
     "words.txt.paq", "lines.txt.paq", "sentence.txt.paq"
 ]
 
